@@ -2,11 +2,11 @@ const cf = {
   config: {
 
 
-    guild_x: "None", //your guild id
+    guild_x: "1237797107625234463", //your guild id
 
-    role_x: "None", //slot user role id
+    role_x: "1250803678974185582", //slot user role id
 
-    staff_x: "None", // staff role id
+    staff_x: "1250803744375963760", // staff role id
 
     logchannel: '', //channel id for slot revoke notice
 
