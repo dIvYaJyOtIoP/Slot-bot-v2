@@ -110,4 +110,4 @@ client.on("messageCreate", async message => {
 end(client,cf)
 
 
-client.login("paste Ur token")
+client.login("MTIyNzI0MzM1ODUxMDkxMTU5OQ.Gn0zaK.fs9EHUw_kNxVmclp175enC6aWWgl76ZN6T-xt4")
